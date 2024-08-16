@@ -1,8 +1,8 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Yaman Efkar
+#Code:Samet Yiğit
 #Türk Siber Timi
-#İnstagram : @turksibertimi
+#İnstagram : @W.samet0_ / Theisyigit
 #Youtube : YamanEfkar
 clear
 case $1 in
